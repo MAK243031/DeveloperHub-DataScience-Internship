@@ -17,9 +17,7 @@ This project aims to detect fraudulent credit card transactions using machine le
 - [Dataset](#dataset)
 - [Models](#models)
 - [Evaluation](#evaluation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -57,9 +55,3 @@ The performance of both models is evaluated using the following metrics:
 - **F1-Score:** The harmonic mean of precision and recall, providing a balanced measure of performance.
 
 The results are visualized using bar charts to compare the training and testing accuracy of both models.
-
-## Usage
-
-To use the fraud detection model:
-
-1. **Install Dependencies:**
